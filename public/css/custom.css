@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("../img/header.png");
+    background-size: cover;
+    background-position-y: bottom;
+    height: 500px;
+    margin-bottom: 0px;
+}
+
+.jumbotron-heading {
+    color: white;
+    font-weight: 700;
+}
+
+.lead {
+    color: white;
+}
